@@ -165,17 +165,15 @@ ALDRIN LIJO J E
 
 
 ## Output screen shots of proteus  :
-![image](https://user-images.githubusercontent.com/118544279/234238500-55eb5068-ba25-443f-9b31-cc100e354831.png)
+### When the button is on:
+![image](https://user-images.githubusercontent.com/118544279/235335816-d5c1071f-69b4-4a11-bcdf-01fdfdb23be5.png)
+### WHent he button is off:
+![image](https://user-images.githubusercontent.com/118544279/235335825-12bed1cf-f884-4208-9096-7a5e52b5b777.png)
 
 
 
 
-## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- ![image](https://user-images.githubusercontent.com/118544279/234238584-49bb831a-8a2f-4089-b297-75d0f277764b.png)
 
- 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
