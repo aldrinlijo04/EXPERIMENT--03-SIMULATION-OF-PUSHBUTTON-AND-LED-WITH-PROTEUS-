@@ -165,10 +165,8 @@ ALDRIN LIJO J E
 
 
 ## Output screen shots of proteus  :
-### When the button is on:
-![image](https://user-images.githubusercontent.com/118544279/235335816-d5c1071f-69b4-4a11-bcdf-01fdfdb23be5.png)
-### WHent he button is off:
-![image](https://user-images.githubusercontent.com/118544279/235335825-12bed1cf-f884-4208-9096-7a5e52b5b777.png)
+![WhatsApp Image 2023-05-16 at 15 51 36](https://github.com/aldrinlijo04/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118544279/90061c30-fbdb-472f-9810-7b109da7f8f4)
+
 
 
 
